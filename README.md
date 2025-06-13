@@ -43,7 +43,7 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bergeouss&show_icons=true&theme=tokyonight" alt="bergeouss's GitHub stats" width="430"/>
-  <img src="https://streak-stats.demolab.com?user=bergeouss&theme=tokyonight" alt="GitHub Streak" width="390"/>
+  <img src="https://streak-stats.demolab.com/?user=bergeouss(https://git.io/streak-stats)&theme=tokyonight" alt="GitHub Streak" width="390"/>
 </p>
 
 ---
