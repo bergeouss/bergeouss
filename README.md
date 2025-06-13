@@ -14,6 +14,10 @@
 
 ---
 
+![Network Diagram](/network.png)
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p>
