@@ -4,7 +4,7 @@ Hi there 👋
 Welcome to my GitHub profile! 
 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=800&color=14FFDD&center=true&vCenter=true&width=440&lines=Tech+Enthusiast+%F0%9F%9A%80;Homelab+Builder+%F0%9F%94%A5;Networking+%26+Cybersec+Fan+%F0%9F%92%BB;Coding+Vibes+with+Windsurf%2C+Roo%2C+TaskMasterAI" alt="Typing SVG" align="center"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=800&color=14FFDD&center=true&vCenter=true&width=440&lines=Tech+Enthusiast+%F0%9F%9A%80;Homelab+Builder+%F0%9F%94%A5;Networking+%26+Cybersec+Fan+%F0%9F%92%BB;Vibe-coding%20with%20Windsurf%20%26%20Roo%2BTaskMasterAI" alt="Typing SVG" align="center"/>
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bergeouss&show_icons=true&theme=tokyonight" alt="bergeouss's GitHub stats" width="430"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bergeouss&theme=tokyonight" alt="GitHub Streak" width="390"/>
+  <img src="https://streak-stats.demolab.com?user=bergeouss&theme=tokyonight" alt="GitHub Streak" width="390"/>
 </p>
 
 ---
