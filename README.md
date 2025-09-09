@@ -14,7 +14,7 @@
 
 ---
 
-![Network Diagram](/network.png)
+![Network Diagram](/Network.drawio.png)
 
 ---
 
