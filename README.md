@@ -8,7 +8,7 @@
 ### 💡 About Me
 
 - 🖥️ **Homelab tinkerer:** Virtualization, self-hosting, and network mapping are my jam
-- 🛠️ **Coding for fun:** HTML/CSS/JS, Ruby, and exploring creative stacks (Windsurf, Roo+TaskMasterAI)
+- 🛠️ **Coding for fun:** HTML/CSS/JS, Ruby, and exploring creative stacks (Claude Code + PAI)
 - 🌐 **Networking & Cybersec:** I love digital defense, topology, and automation
 - 🎨 **UX fan:** Clean, dark-themed interfaces with terminal vibes
 
