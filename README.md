@@ -1,7 +1,7 @@
 <!-- Banner with animated typing effect -->
 <p align="center">
   <img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=800&color=14FFDD&center=true&vCenter=true&width=440&lines=Tech+Enthusiast+%F0%9F%9A%80;Homelab+Builder+%F0%9F%94%A5;Networking+%26+Cybersec+Fan+%F0%9F%92%BB;Claude%2BCode%2B+%2BPAI%2B+%2BGLM-5.1" 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=800&color=14FFDD&center=true&vCenter=true&width=440&lines=Tech+Enthusiast+%F0%9F%9A%80;Homelab+Builder+%F0%9F%94%A5;Networking+%26+Cybersec+Fan+%F0%9F%92%BB;Claude+Code+%2B+PAI+%2B+GLM-5.1" 
 alt="Typing SVG" />
 </p>
 
@@ -65,7 +65,7 @@ alt="Typing SVG" />
 
 <p>
   <a href="https://twitter.com/bergeouss" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bergeouss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vincent-brg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <!-- Add more socials or your blog here if you want -->
 </p>
 
