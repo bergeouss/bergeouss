@@ -14,7 +14,7 @@
 
 ---
 
-![Network Diagram](/Network.drawio.png)
+![Network Diagram](/homelab.png)
 
 ---
 
