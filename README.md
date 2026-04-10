@@ -30,8 +30,8 @@ alt="Typing SVG" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=222" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Windsurf-14FFDD?logoColor=222" />
-  <img src="https://img.shields.io/badge/-Roo+TaskMasterAI-6C63FF?logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Claude_Code-14FFDD?logoColor=222" />
+  <img src="https://img.shields.io/badge/-PAI_+GLM--5.1-6C63FF?logoColor=fff" />
 </p>
 
 ---
